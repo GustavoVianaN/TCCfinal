@@ -1,0 +1,4 @@
+Modelo,Latência (s/tweet),Throughput (tokens/s),FLOPs/s,VRAM (MB),Sucesso (%)
+zephyr-7b-stem:latest,0.23942750000000002,6.4562,90384442655.9125,10299.605,100.0
+ezo-humanities-9b:latest,0.28910250000000004,1.1998,16797297672.2175,7694.935,100.0
+mistral-7b-orca-dpo:latest,2.43732,32.205974999999995,450885806989.345,6034.805,100.0
